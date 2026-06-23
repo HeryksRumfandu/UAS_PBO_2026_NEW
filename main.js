@@ -1,7 +1,5 @@
 const answerKey = {
-  // =====================
-  // 1–10
-  // =====================
+
 
   // Q1: Creational Pattern -> Factory & Singleton
   1: {

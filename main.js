@@ -52,7 +52,11 @@ const answerKey = {
     ]
   },
 
-  13: { type: "single", correct: ["InterfaceSubject"] },
+  // Data soal nomor 13
+  13: {
+    type: "multi", // Diubah menjadi multi
+    correct: ["Orang tua", "Dosen Pembimbing", "Wali"] // Jawaban yang benar
+},
 
   14: {
     type: "multi",
